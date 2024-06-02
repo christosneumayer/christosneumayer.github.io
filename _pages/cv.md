@@ -1,9 +1,3 @@
----
-layout: cv
-title: cv
-nav_order: 5toc:
-  sidebar: left
----
 
 # index's CV
 
