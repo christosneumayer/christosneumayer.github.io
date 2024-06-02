@@ -1,3 +1,10 @@
+---
+layout: page
+permalink: /cv/
+title: CV
+nav: true
+heading: CV
+---
 
 # index's CV
 
