@@ -1,7 +1,6 @@
 ---
 layout: cv
 title: cv
-nav: true
 nav_order: 5toc:
   sidebar: left
 ---
